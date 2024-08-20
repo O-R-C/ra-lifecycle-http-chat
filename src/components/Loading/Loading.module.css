@@ -1,0 +1,9 @@
+.loading {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+
+  color: rgb(98, 255, 45);
+  font-size: 12px;
+  font-weight: bold;
+}

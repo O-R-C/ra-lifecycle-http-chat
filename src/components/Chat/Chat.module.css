@@ -1,0 +1,18 @@
+.chat {
+  width: 80%;
+  height: calc(100vh - 40px);
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 30px;
+
+  color: #212121;
+
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+  position: relative;
+}
